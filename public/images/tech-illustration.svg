@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="500" height="300">
+  <defs>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="500" height="300" fill="url(#techGradient)" />
+  
+  <!-- 抽象科技元素 -->
+  <circle cx="100" cy="100" r="40" fill="rgba(255,255,255,0.2)" />
+  <circle cx="400" cy="200" r="60" fill="rgba(255,255,255,0.1)" />
+  
+  <!-- 网络连接线 -->
+  <path d="M150,100 Q250,150 350,200" stroke="white" stroke-width="2" fill="none" opacity="0.5" />
+  
+  <!-- 数据块 -->
+  <rect x="50" y="200" width="80" height="40" fill="white" opacity="0.3" rx="5" />
+  <rect x="370" y="50" width="60" height="30" fill="white" opacity="0.3" rx="5" />
+  
+  <!-- AI和数据符号 -->
+  <text x="250" y="150" font-family="Arial" font-size="40" fill="white" text-anchor="middle" opacity="0.8">
+    AI & DATA
+  </text>
+</svg> 
