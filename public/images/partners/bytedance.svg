@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#000000" rx="10"/>
+  <text x="100" y="50" text-anchor="middle" alignment-baseline="middle" fill="#FFFFFF" font-size="40" font-weight="bold">
+    字节
+  </text>
+</svg> 
